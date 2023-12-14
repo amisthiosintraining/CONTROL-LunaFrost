@@ -55,6 +55,9 @@ Delete the following:
 <br>`data_pc\textures\characters\andro\jesse\tops\jesse_tactical_jacket_d.tex`
 <br>`data_pc\textures\characters\andro\jesse\tops\jesse_tactical_shirt_d.tex`
 
+**FACE (ISU MARKINGS)**
+<br>`data_pc\textures\characters\andro\heads\courtney_hope\courtney_hope_face_d.tex`
+
 **EYES**
 <br>`data_pc\textures\characters\andro\heads\courtney_hope\courtney_hope_eye_d.tex`
 
