@@ -1,5 +1,5 @@
 # CONTROL | Luna Frost
-White to grey gradient recolours.
+Various retextures based on moon phase colours.
 
 Installation
 ------
